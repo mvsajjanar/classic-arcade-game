@@ -4,7 +4,7 @@
 ## Table of Contents
 
 * [Game Functionality](#game-functionality)
-* [How To Run](#how-to-play)
+* [How To Run](#how-to-run)
 
 
 ## Game Functionality
